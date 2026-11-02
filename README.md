@@ -4,9 +4,9 @@
 
 > **Independence disclosure (per HACKATHON.md Q-015):** this is an independent
 > second submission by the same entrant. The entrant's other project is
-> **VAULTGUARD** (a self-protecting DeFi vault guardian, `defi` track) — a
-> completely separate codebase, contract, and concept. No code is shared
-> between the two projects.
+> **VAULTRY** (built as VAULTGUARD, a self-protecting DeFi vault guardian,
+> Unstoppable DeFi track) — a completely separate codebase, contract, and
+> concept. No code is shared between the two projects.
 
 ## The problem
 
