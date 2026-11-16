@@ -48,7 +48,7 @@ curl -s -X POST https://rpc.testnet.fastnear.com -H 'Content-Type: application/j
 ## Try it (do X → see Y)
 
 Prerequisite: a NEAR testnet account with a little testnet NEAR
-(free from https://near-faucet.io or https://helper.testnet.near.org).
+(free from https://near-faucet.io).
 
 **Option A — the UI** (no build step): open `frontend/index.html` in a browser
 (serve the folder or open the file directly — it loads near-api-js from CDN).
